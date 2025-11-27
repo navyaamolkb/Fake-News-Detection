@@ -47,6 +47,8 @@ http://127.0.0.1:5000/
 
 
 
+
+
 Prediction
 
 The finished system can analyse any new text and estimate whether it belongs to real news or fake news.
