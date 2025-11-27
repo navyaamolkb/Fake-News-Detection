@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+        .box {
+            background: white;
+            padding: 25px;
+            width: 500px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #ccc;
+        }
+        a {
+            text-decoration: none;
+            padding: 8px 15px;
+            background: #2196F3;
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+        <h2>Fake News Detection Result</h2>
+
+        <h3>Your Input:</h3>
+        <p>{{ message }}</p>
+
+        <h3>Prediction:</h3>
+        <h2 style="color: green;">{{ prediction }}</h2>
+
+        <br><br>
+        <a href="/">Check Another News</a>
+    </div>
+
+</body>
+</html>
