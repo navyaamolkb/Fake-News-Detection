@@ -1,4 +1,3 @@
-<img width="1920" height="909" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/5660f37f-648f-4fe4-bd51-5926b903bf7f" />
 # Fake-News-Detection
 
 # Problem Definition
@@ -44,4 +43,4 @@ python app.py
 http://127.0.0.1:5000/
 The web app will load and you can test the predictions directly.
 
-
+<img width="1920" height="909" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/5660f37f-648f-4fe4-bd51-5926b903bf7f" />
