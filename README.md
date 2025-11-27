@@ -5,7 +5,7 @@ This project focuses on building a system that can distinguish genuine news arti
 
 # Approach
 Fake-news detection works best when the model learns from labelled examples. Here, supervised learning is used so that the algorithm studies previously tagged articles and learns the patterns that separate truth from deception. Logistic Regression, Decision Tree Classifier, and PassiveAggressiveClassifier were explored, and the final model is based on the PassiveAggressiveClassifier due to its stronger performance.
-https://github.com/navyaamolkb/Fake-News-Detection/edit/main/README.md
+
 # Data Collection
 The dataset consists of news items gathered from different sources. It may include content scraped from websites, collected from archives, or downloaded from the dataset folder included within the project repository.
 
