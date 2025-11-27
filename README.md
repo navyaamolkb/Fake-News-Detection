@@ -1,3 +1,4 @@
+<img width="1920" height="909" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/5660f37f-648f-4fe4-bd51-5926b903bf7f" />
 # Fake-News-Detection
 
 # Problem Definition
